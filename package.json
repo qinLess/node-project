@@ -1,0 +1,27 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinLess/node-project.git"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "escodegen": "^1.14.1",
+    "esprima": "^4.0.1",
+    "estraverse": "^4.3.0",
+    "iconv-lite": "^0.6.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinLess/node-project/issues"
+  },
+  "homepage": "https://github.com/qinLess/node-project#readme"
+}
